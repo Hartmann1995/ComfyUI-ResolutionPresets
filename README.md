@@ -60,7 +60,7 @@
 1. 将本仓库克隆到 ComfyUI 的 `custom_nodes` 目录：
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/<你的用户名>/ComfyUI-ResolutionPresets.git
+   git clone https://github.com/Hartmann1995/ComfyUI-ResolutionPresets.git
    ```
 2. 重启 ComfyUI。
 3. 在节点列表的「分辨率」(resolution) 分类下即可找到「分辨率预设」与「分辨率预设-Latent」。
@@ -69,7 +69,7 @@
 1. Clone this repo into ComfyUI's `custom_nodes` directory:
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/<your-username>/ComfyUI-ResolutionPresets.git
+   git clone https://github.com/Hartmann1995/ComfyUI-ResolutionPresets.git
    ```
 2. Restart ComfyUI.
 3. Find **分辨率预设** / **分辨率预设-Latent** under the *resolution* category in the node list.
